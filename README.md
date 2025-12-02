@@ -1,14 +1,20 @@
-# GitHub Issue Templates for Our Organization
+## Organizational Common Objects
 
-This repository holds **common GitHub issue templates** for all repositories in our organization.
+## profile
 
-## Purpose
+The **profile/README.md** will appear on the organization's profile.
+
+## .github/ISSUE_TEMPLATE/
+
+This directory holds **common GitHub issue templates** for all repositories in our organization.
+
+### Purpose
 
 - Ensure consistency for bug reports, feature requests, and tasks/discussions.
 - Save time by using a standard format for all repositories.
 - Facilitate clearer communication and tracking for contributors.
 
-## Usage
+### Usage
 
 - Any repository in this organization that **does not have its own issue templates** will automatically inherit these templates.
 - Templates included:

@@ -1,12 +1,20 @@
-## Hi there 👋
+# Oracle
 
-<!--
+We are final year computer science & engineering undergraduate students at University of Moratuwa, Sri Lanka. 
+We are currently experimenting a lightweight model that can completely run in local machines.
 
-**Here are some ideas to get you started:**
+## 🚀 What We Are Building
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### ⚡ Local-First Lightweight LLMs
+
+Models designed to run on everyday hardware such as laptops, desktops, mobile devices while still achieving strong instruction-following and reasoning capabilities.
+
+### 🧠 Dynamic Knowledge Integration
+
+We combine small reasoning models with an intelligent retrieval system and curated domain knowledge bases.
+This gives lightweight models **superpowers** normally found only in larger LLMs.
+
+### 🔒 Privacy-Preserving AI
+
+All inference, storage, and retrieval happen locally.
+No data is uploaded, logged, or shared—ever.
