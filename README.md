@@ -18,9 +18,9 @@ This repository holds **common GitHub issue templates** for all repositories in 
 
 > Note: To override these templates in a specific repository, add a `.github/ISSUE_TEMPLATE/` folder in that repository with its own templates. 
 
-> **🚨 IMPORTANT**
+> [!IMPORTANT]
 > Before opening or modifying issues that could affect repository configuration or workflows, contact an **ADMIN** first.  
 > If unsure whether a change is safe, wait for ADMIN approval.
 
-> **⚠️ CAUTION**
+> [!CAUTION]
 > Do not close, rename, or delete files, labels, workflows, or issue templates without prior approval from an **ADMIN** — unauthorized changes can disrupt CI/CD, automation, or organization-wide settings.
