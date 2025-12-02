@@ -1,9 +1,10 @@
 ---
 name: Bug Report
 about: Report a problem, error, or unexpected behavior in the project.
-title: "[BUG]"
-labels: 🐛 bug
-assignees: ''
+title: '[BUG]'
+labels: 
+  - bug
+assignees: '[Name of the assignees]'
 ---
 
 ## Description
