@@ -1,5 +1,7 @@
 ## Organizational Common Objects
 
+This is the place that can use to put commonly used objects in all repos in our organization. 
+
 ## profile
 
 The **profile/README.md** will appear on the organization's profile.
