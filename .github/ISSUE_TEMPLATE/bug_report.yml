@@ -1,0 +1,43 @@
+name: Bug report
+description: Create a report to help us investigate and fix a bug. Please include steps to reproduce and relevant logs or screenshots.
+title: "[BUG] {short_description}"
+labels:
+  - bug
+body:
+  - type: input
+    id: short_description
+    attributes:
+      label: Short summary
+      description: A one-line summary of the problem.
+      placeholder: "e.g. App crashes when opening settings"
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Step-by-step instructions and any exact commands used.
+      placeholder: "1. Do X\n2. Do Y\n3. See error"
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / stack trace / screenshots
+      description: Paste logs or attach screenshots that help debug the issue.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment (OS, versions)
+      placeholder: "e.g. Ubuntu 22.04, Python 3.11"
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context

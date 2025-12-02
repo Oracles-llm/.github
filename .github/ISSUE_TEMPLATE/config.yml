@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Organization support
+    url: https://github.com/Oracles-llm/.github/issues/new?labels=question&template=question.yml
+    about: Use this link for general questions or support requests across organization repositories.
