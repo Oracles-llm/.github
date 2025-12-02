@@ -1,7 +1,7 @@
 ---
 name: Task / Discussion
 about: Define tasks, research topics, or start a discussion related to the project.
-title: [TASK/DISCUSSION]
+title: "[TASK/DISCUSSION]"
 labels: discussion
 assignees: ''
 ---
